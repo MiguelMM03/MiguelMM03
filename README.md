@@ -16,7 +16,7 @@
     <li>JavaScript</li>
     <li>NodeJS</li>
   </ul>
-  <h3>Frameworks</h3>
+  <h3>Frameworks/Libraries</h3>
   <ul>
     <li>React</li>
     <li>SpringBoot</li>
