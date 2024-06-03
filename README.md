@@ -33,7 +33,7 @@
   <h2>GitHub Stats</h2>
     <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=MiguelMM03&rank=S,AAA,AA,A,B" alt="MiguelMM03" />
+      <img src="https://github-profile-trophy.vercel.app/?username=MiguelMM03&rank=SSS,SS,S,AAA,AA,A,B" alt="MiguelMM03" />
     </a>
   </p>
   <h2>Let's connect!</h2>
