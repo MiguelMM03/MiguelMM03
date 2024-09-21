@@ -20,6 +20,7 @@
   <ul>
     <li>React</li>
     <li>SpringBoot</li>
+    <li>Flask</li>
     <li>BootStrap</li>
   </ul>
   <h3>Other knowledge</h3>
@@ -29,6 +30,7 @@
     <li>Linux</li>
     <li>Virtual machines</li>
     <li>SQL and NoSQL databases</li>
+    <li>Jenkins and GitHub Actions</li>
   </ul>
   <h2>GitHub Stats</h2>
     <p>
