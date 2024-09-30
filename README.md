@@ -2,7 +2,7 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=MiguelMM03&label=Profile+views" alt="MiguelMM03" /> </p>
   <h2>About me</h2>
   <ul>
-    <li>I'm a third-year Software Engineering Student at the University of Oviedo 🎓</li>
+    <li>I'm a fourth-year Software Engineering Student at the University of Oviedo 🎓</li>
     <li>Passionate about technology and continuous learning 🚀</li>
     <li>Striving to become the best version of myself 💪</li>
   </ul>
