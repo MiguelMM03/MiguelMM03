@@ -31,6 +31,7 @@
     <li>Virtual machines</li>
     <li>SQL and NoSQL databases</li>
     <li>Jenkins and GitHub Actions</li>
+    <li>Ansible</li>
   </ul>
   <h2>GitHub Stats</h2>
     <p>
