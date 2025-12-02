@@ -1,15 +1,10 @@
 <h1 align="center">Hi, I'm Miguel Méndez 👋</h1>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=MiguelMM03&label=Profile+views" alt="MiguelMM03" /> </p>
-  <h2>About me</h2>
-  <ul>
-    <li>I'm a fourth-year Software Engineering Student at the University of Oviedo 🎓</li>
-    <li>Passionate about technology and continuous learning 🚀</li>
-    <li>Striving to become the best version of myself 💪</li>
-  </ul>
-
+  <h2 align="center">Software Engineer</h2>
   <h2>Skills</h2>
   <h3>Programming languages</h3>
   <ul>
+    <li>C++</li>
     <li>Java</li>
     <li>Python</li>
     <li>C#</li>
@@ -21,7 +16,6 @@
     <li>React</li>
     <li>SpringBoot</li>
     <li>Flask</li>
-    <li>BootStrap</li>
   </ul>
   <h3>Other knowledge</h3>
   <ul>
